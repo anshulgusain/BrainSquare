@@ -1,0 +1,28 @@
+{
+  "name": "brainsquare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshulgusain/BrainSquare.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anshulgusain/BrainSquare/issues"
+  },
+  "homepage": "https://github.com/anshulgusain/BrainSquare#readme",
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "@types/jsonwebtoken": "^9.0.9",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.12.1",
+    "typescript": "^5.8.2"
+  }
+}
